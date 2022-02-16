@@ -1,0 +1,10 @@
+{
+    "extName": {
+        "message": "Inconnu",
+        "description": "Extension name."
+    },
+    "extDescription": {
+        "message": "Inconnu",
+        "description": "Extension description."
+    }
+}
