@@ -17,9 +17,6 @@
             ],
             "css": [
                 "translator-css.css"
-            ],
-            "js": [
-                "script.js"
             ]
         }
     ],
