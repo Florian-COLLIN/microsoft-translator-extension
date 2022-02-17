@@ -12,3 +12,6 @@ ul li,
 div {
     font-family: "Century Schoolbook";
 }
+select#tta_srcsl optgroup#t_srcRecentLang option {
+    min-height: 40px;
+}
