@@ -4,7 +4,7 @@
         "description": "Extension name."
     },
     "extDescription": {
-        "message": "Inconnu",
+        "message": "Microsoft Translator Plus améliore l'expérience utilisateur sur Microsoft Bing Translator.",
         "description": "Extension description."
     }
 }
