@@ -8,7 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Initial commit ;
 - manifest.json for the datas of this extension ;
 - locales files for english and french ;
-- translate-css.css : style sheet to improve the style of Microsoft Bing Translator.
+- translate-css.css : style sheet to improve the style of Microsoft Bing Translator ;
+- popup.html : add empty html page.
 
 ### Changed
 
