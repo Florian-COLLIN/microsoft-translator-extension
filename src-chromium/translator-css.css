@@ -1,0 +1,35 @@
+div#tt_translatorHome {
+    width: 90%;
+    border-radius: 20px;
+}
+p,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+ul li,
+div, 
+option {
+    font-family: "Century Schoolbook";
+}
+option {
+    min-height: 100px;
+}
+ul.t_navigation.desktop_header_menu {
+    display: none;
+}
+body {
+    background-image: url(https://www.microsoft.com/en-us/translator/wp-content/uploads/sites/9/2018/07/home-portal-hero-bg.jpg);
+}
+div#tta_phrasebook {
+    background-color: white;
+    border-radius: 20px 20px 20px 20px;
+}
+div#tt_txtContrl {
+    border-radius: 20px 20px 20px 20px;
+}
+td.tta_swapcell {
+    display: none;
+}
