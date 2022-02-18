@@ -3,6 +3,10 @@
 L'extension Microsoft Translator Plus, est une extension qui améliore l'expérience utilisateur du site Microsoft Bing Translator.
 
 ## Documentation
+- [Comment installer](/microsoft-translator-extension/docs/fr/how-to-install)
+- [Comment utiliser](/microsoft-translator-extension/docs/fr/how-to-use)
+- [Comment mettre à jour](/microsoft-translator-extension/fr/docs/how-to-update)
+
 ## Fonctionnalités
 Ci-dessous vous trouverez la liste des fonctionnalités de Microsoft Translator Plus :
 - Amélioration du thème clair du site.
