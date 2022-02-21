@@ -5,6 +5,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unrealesed
 ### Added
+
+### Changed
+
+### Fixed
+
+## [v0.0.1] - 2022-02-21
+### Added
 - Initial commit ;
 - manifest.json for the datas of this extension ;
 - locales files for english and french ;
@@ -12,6 +19,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - popup.html : add empty html page ;
 - Add icons.
 
-### Changed
-
-### Fixed
+[v0.0.1]: https://github.com/Florian-COLLIN/microsoft-translator-extension/releases/tag/v0.0.1
