@@ -6,5 +6,9 @@
     "extDescription": {
         "message": "Microsoft Translator Plus améliore l'expérience utilisateur sur Microsoft Bing Translator.",
         "description": "Extension description."
+    },
+    "popupAccesBing": {
+        "message": "Accès à Bing Translator",
+        "description": "Acces Bing Translator on Popup."
     }
 }
