@@ -1,4 +1,4 @@
-# Microsoft Translator Plus Accueil
+# Microsoft Translator Plus Home
 
 The Microsoft Translator Plus extension, is an extension that improves the user experience of the Microsoft Bing Translator site.
 
