@@ -7,6 +7,10 @@
         "message": "Microsoft Translator Plus improves the user experience on Microsoft Bing Translator.",
         "description": "Extension description."
     },
+    "extShortName": {
+        "message": "MTranslate +",
+        "description": "Extension short name."
+    },
     "popupAccesBing": {
         "message": "Unknow",
         "description": "Acces Bing Translator on Popup."
