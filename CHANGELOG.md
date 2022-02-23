@@ -5,7 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unrealesed
 ### Added
-- style.css : style for HTML Popup page.s
+- style.css : style for HTML Popup page ;
+- Short name added for this extension : MTranslate +.
 
 ### Changed
 - popup.html : HTML Popup page updated and content added.
