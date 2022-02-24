@@ -1,4 +1,3 @@
 // Rules
-function rulesRules() {
-    window.document.write("Test");
-}
+var message = "Test";
+document.getElementById("mtpRulesMessage").innerHTML = "Test";
