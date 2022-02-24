@@ -1,18 +1,14 @@
 {
     "extName": {
-        "message": "Microsoft Translator Plus",
-        "description": "Extension name."
+        "message": "Microsoft Translator Plus"
     },
     "extDescription": {
-        "message": "Microsoft Translator Plus improves the user experience on Microsoft Bing Translator.",
-        "description": "Extension description."
+        "message": "Microsoft Translator Plus improves the user experience on Microsoft Bing Translator."
     },
     "extShortName": {
-        "message": "MTranslate +",
-        "description": "Extension short name."
+        "message": "MTranslate +"
     },
     "rulesRulesText": {
-        "message": "Unknow",
-        "description": "Conditions d'utilisations"
+        "message": "Unknow"
     }
 }
