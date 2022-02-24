@@ -11,8 +11,8 @@
         "message": "MTranslate +",
         "description": "Extension short name."
     },
-    "popupAccesBing": {
-        "message": "Accès à Bing Translator",
-        "description": "Acces Bing Translator on Popup."
+    "rulesRulesText": {
+        "message": "Unknow",
+        "description": "Conditions d'utilisations"
     }
 }
