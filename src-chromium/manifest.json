@@ -19,7 +19,10 @@
                 "https://www.bing.com/Translator/*"
             ],
             "css": [
-                "translator-css.css"
+                "../css/translator-css.css"
+            ],
+            "js": [
+                "../js/translator-js.js"
             ]
         }
     ],
