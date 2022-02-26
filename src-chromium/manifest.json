@@ -20,9 +20,6 @@
             ],
             "css": [
                 "../css/translator-css.css"
-            ],
-            "js": [
-                "../js/translator-js.js"
             ]
         }
     ],
