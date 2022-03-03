@@ -6,7 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## Unrealesed
 ### Added
 - style.css : style for HTML Popup page ;
-- Short name added for this extension : MTranslate +.
+- Short name added for this extension : MTranslate + ;
+- Build number in manifest and popup.
 
 ### Changed
 - popup.html : HTML Popup page updated and content added ;
