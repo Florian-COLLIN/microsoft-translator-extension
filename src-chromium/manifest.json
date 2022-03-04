@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Microsoft Translator Plus",
+    "version": "0.1.1",
+    "description": "Hello world!",
+    "homepage_url": "https://florian-collin.github.io/microsoft-translator-extension/",
+    "version_name": "v0.1.1-alpha.2 Build 7",
+    "author": "Florian COLLIN",
+    "short_name": "Hello world!",
+    "action": {
+        "default_popup": "../html/popup.html",
+        "default_title": "Hello world!"
+    }
+}
