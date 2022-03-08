@@ -9,6 +9,9 @@
         "message": "MTranslate +"
     },
     "popupAccesBing": {
-        "message": "Accès à Bing Translator"
+        "message": "Access to Bing Translator"
+    },
+    "popupAccesDoc": {
+        "message": "Access to Documentation"
     }
 }
