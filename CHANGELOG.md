@@ -18,7 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Fixed
 
-## [v0.0.1] - 2022-02-21
+## [v0.0.1] Build 5 - 2022-02-21
 ### Added
 - Initial commit ;
 - manifest.json for the datas of this extension ;
