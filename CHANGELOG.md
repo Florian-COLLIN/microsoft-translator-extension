@@ -14,7 +14,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - popup.html : HTML Popup page updated and content added ;
 - HTML files in /html/ folder ;
 - JS files in /js/ folder ;
-- CSS files in /css/ folder.
+- CSS files in /css/ folder ;
+- Update icons.
 
 ### Fixed
 
