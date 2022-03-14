@@ -5,6 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unrealesed
 ### Added
+### Changed
+### Fixed
+
+## [v0.1.1] Build 11 - 2022-03-14
+### Added
 - style.css : style for HTML Popup page ;
 - Short name added for this extension : MTranslate + ;
 - Build number in manifest and popup ;
@@ -17,8 +22,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - CSS files in /css/ folder ;
 - Update icons.
 
-### Fixed
-
 ## [v0.0.1] Build 5 - 2022-02-21
 ### Added
 - Initial commit ;
@@ -28,4 +31,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - popup.html : add empty html page ;
 - Add icons.
 
+[v0.1.1]: https://github.com/Florian-COLLIN/microsoft-translator-extension/releases/tag/v0.1.1
 [v0.0.1]: https://github.com/Florian-COLLIN/microsoft-translator-extension/releases/tag/v0.0.1
