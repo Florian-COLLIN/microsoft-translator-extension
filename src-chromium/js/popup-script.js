@@ -1,3 +1,4 @@
+// @author : Florian COLLIN
 function setChildTextNode(elementId, text) {
     document.getElementById(elementId).innerText = text;
 }
