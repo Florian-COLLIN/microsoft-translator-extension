@@ -5,8 +5,8 @@ L'extension Microsoft Translator Plus, est une extension qui a été conçu afin
 L'extension est compatible avec tous les navigateurs basés Chromium (Google Chrome, Microsoft Edge, Opera), mais n'est pour le moment disponible sur aucun store.
 
 ## Documentation
-- [Comment installer](/microsoft-translator-extension/docs/fr/how-to-install)
-- [Comment utiliser](/microsoft-translator-extension/docs/fr/how-to-use)
+- [Comment installer](/microsoft-translator-extension/fr/docs/how-to-install)
+- [Comment utiliser](/microsoft-translator-extension/fr/docs/how-to-use)
 - [Comment mettre à jour](/microsoft-translator-extension/fr/docs/how-to-update)
 
 ## Fonctionnalités
