@@ -3,7 +3,7 @@
    Bing Translator JavaScript file
    */
 // Variables
-let version_name = "v1.1.1-alpha.2 (Build 13)";
+let version_name = "v1.1.1-alpha.3 (Build 14)";
 // Fonctions pour les autres fonctions
 function setChildTextNode(elementId, text) {
     document.getElementById(elementId).innerText = text;
