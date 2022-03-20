@@ -24,3 +24,10 @@ div#tt_txtContrl {
 td.tta_swapcell {
     display: none;
 }
+#tt_translatorPlusContent {
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+    color: black;
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+}
