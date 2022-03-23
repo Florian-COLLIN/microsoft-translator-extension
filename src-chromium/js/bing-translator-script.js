@@ -17,7 +17,7 @@ function contentLink() {
     let plusLink = document.createElement("div");
         plusLink.id = "tt_translatorPlusContent";
     document.getElementById("tt_translatorHome").appendChild(plusLink);
-    document.getElementById("tt_translatorPlusContent").innerHTML = '<table><tr><td>Microsoft Translator Plus - 2022 - ' + version_name + ' - ' + aboutTranslatorPlus + '</td></tr></table>';
+    document.getElementById("tt_translatorPlusContent").innerHTML = '<table><tr><td>Microsoft Translator Plus - 2022 - ' + version_name + ' - <a href="https://florian-collin.github.io/microsoft-translator-extension/" target="_blank">' + aboutTranslatorPlus + '</a></td></tr></table>';
 }
 // Exécution des fonctions
 contentLink();
