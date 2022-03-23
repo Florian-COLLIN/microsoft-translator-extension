@@ -5,7 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unrealesed
 ### Added
-- JavaScript file for Bing Translator.
+- JavaScript file for Bing Translator ;
+- Opera compatibility.
 
 ### Changed
 ### Fixed
