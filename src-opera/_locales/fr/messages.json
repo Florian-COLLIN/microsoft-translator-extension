@@ -13,5 +13,8 @@
     },
     "popupAccesDoc": {
         "message": "Accès à la documentation"
+    },
+    "bingAbout": {
+        "message": "À propos"
     }
 }
