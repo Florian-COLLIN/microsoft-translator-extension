@@ -5,11 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unrealesed
 ### Added
-- JavaScript file for Bing Translator ;
-- Opera compatibility.
 
 ### Changed
 ### Fixed
+
+## [v1.1.1] Build 15 - 2022-03-26
+### Added
+- JavaScript file for Bing Translator ;
+- Opera compatibility.
 
 ## [v0.1.1] Build 11 - 2022-03-14
 ### Added
