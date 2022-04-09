@@ -40,5 +40,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - popup.html : add empty html page ;
 - Add icons.
 
+[v1.1.1]: https://github.com/Florian-COLLIN/microsoft-translator-extension/releases/tag/v1.1.1
 [v0.1.1]: https://github.com/Florian-COLLIN/microsoft-translator-extension/releases/tag/v0.1.1
 [v0.0.1]: https://github.com/Florian-COLLIN/microsoft-translator-extension/releases/tag/v0.0.1
