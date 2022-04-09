@@ -18,3 +18,11 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('#acces_doc');
     accesDoc();
 });
+
+function whatsNew() {
+    setChildTextNode('whatsnewSpan', chrome.i18n.getMessage("popupWhatsNew"));
+}
+document.addEventListener('DOMContentLoaded', function() {
+    document.querySelector('#whatsnew');
+    whatsNew();
+});

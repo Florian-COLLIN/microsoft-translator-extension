@@ -14,6 +14,9 @@
     "popupAccesDoc": {
         "message": "Accès à la documentation"
     },
+    "popupWhatsNew": {
+        "message": "Voir les nouveautés"
+    },
     "bingAbout": {
         "message": "À propos"
     }
