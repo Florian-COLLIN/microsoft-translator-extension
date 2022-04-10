@@ -3,8 +3,8 @@ L'extension Microsoft Translator Plus, est une extension dite compatible-Chromiu
 
 | Navigateur       | Compatibilité      | Lien |
 | ---------------- | ------------------ | ---- |
-| Microsoft Edge   | :white_check_mark: | :x:  |
-| Google Chrome    | :white_check_mark: | :x:  |
-| Safari           | :x:                | :x:  |
-| Mozilla Firefox  | :x:                | :x:  |
-| Opera            | :white_check_mark: | [Lien Opera Add-ons](https://addons.opera.com/fr/extensions/details/microsoft-translator-plus/) |
+| Microsoft Edge   | Oui                | Non  |
+| Google Chrome    | Oui                | Non  |
+| Safari           | Non                | Non  |
+| Mozilla Firefox  | Non                | Non  |
+| Opera            | Oui                | [Lien Opera Add-ons](https://addons.opera.com/fr/extensions/details/microsoft-translator-plus/) |
