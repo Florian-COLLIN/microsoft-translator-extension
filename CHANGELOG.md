@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Changed
 - "See what's new" button added in popup ;
 - Appearance of popup updated ;
-- Appearance of Microsoft Translator website ;
+- Appearance of Microsoft Translator website updated ;
 - Background image of Microsoft Translator website ;
 - Javascript file for Bing Translator edited.
 
