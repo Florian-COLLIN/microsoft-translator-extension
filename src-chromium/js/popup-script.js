@@ -1,8 +1,10 @@
 // @author : Florian COLLIN
+// Fonctions pour les fonctions
 function setChildTextNode(elementId, text) {
     document.getElementById(elementId).innerText = text;
 }
 
+// Fonctions de langues
 function accesBing() {
     setChildTextNode('languageSpan', chrome.i18n.getMessage("popupAccesBing"));
 }
