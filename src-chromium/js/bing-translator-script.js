@@ -3,7 +3,7 @@
    Bing Translator JavaScript file
    */
 // Variables
-let version_name = "v1.2.1-beta.2 (Build 20)";
+let version_name = "v1.2.1 (Build 21)";
 let name = "Microsoft Translator Plus";
 let year = "2022";
 let link_about = "https://florian-collin.github.io/microsoft-translator-extension/";

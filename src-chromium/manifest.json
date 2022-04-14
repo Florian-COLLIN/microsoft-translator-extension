@@ -5,7 +5,7 @@
     "description": "__MSG_extDescription__",
     "homepage_url": "https://florian-collin.github.io/microsoft-translator-extension/",
     "default_locale": "en",
-    "version_name": "v1.2.1-beta.2 Build 20",
+    "version_name": "v1.2.1 Build 21",
     "author": "Florian COLLIN",
     "short_name": "__MSG_extShortName__",
     "action": {

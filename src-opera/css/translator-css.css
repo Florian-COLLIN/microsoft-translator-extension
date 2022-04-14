@@ -12,14 +12,18 @@ ul.t_navigation.desktop_header_menu {
     display: none;
 }
 body {
-    background-image: url("https://www.microsoft.com/en-us/translator/wp-content/uploads/sites/9/2018/07/home-portal-hero-bg.jpg");
+    background-image: url("https://th.bing.com/th/id/R.f5c0c2634fd35557ff274395d2d10972?rik=xXAAWY7Zl3%2b5XQ&pid=ImgRaw&r=0");
 }
 div#tta_phrasebook {
     background-color: white;
     border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 0 .8em #999;
+    margin: 15px 15px 15px 15px;
 }
 div#tt_txtContrl {
     border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 0 .8em #999;
+    margin: 15px 15px 15px 15px;
 }
 td.tta_swapcell {
     display: none;
@@ -30,4 +34,5 @@ td.tta_swapcell {
     color: black;
     background-color: white;
     padding: 20px 20px 20px 20px;
+    box-shadow: 0 0 .8em #999;
 }
