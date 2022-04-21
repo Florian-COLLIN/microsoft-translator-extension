@@ -28,3 +28,11 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('#whatsnew');
     whatsNew();
 });
+
+function accesAbout() {
+    setChildTextNode('aboutSpan', chrome.i18n.getMessage("popupAbout"));
+}
+document.addEventListener('DOMContentLoaded', function() {
+    document.querySelector('#acces_about');
+    accesAbout();
+});

@@ -17,6 +17,9 @@
     "popupWhatsNew": {
         "message": "Voir les nouveautés"
     },
+    "popupAbout": {
+        "message": "À propos"
+    },
     "bingAbout": {
         "message": "À propos"
     }
