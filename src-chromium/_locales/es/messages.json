@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Microsoft Translator Plus"
+    },
+    "extDescription": {
+        "message": "Microsoft Translator Plus mejora la experiencia del usuario en Microsoft Bing Translator."
+    },
+    "extShortName": {
+        "message": "MTranslate +"
+    },
+    "popupAccesBing": {
+        "message": "Acceso a Bing Translator"
+    },
+    "popupAccesDoc": {
+        "message": "Acceso a la documentación"
+    },
+    "popupWhatsNew": {
+        "message": "Vea las novedades"
+    },
+    "popupAbout": {
+        "message": "A propósito"
+    },
+    "bingAbout": {
+        "message": "A propósito"
+    }
+}
