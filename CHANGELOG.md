@@ -5,7 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unrealesed
 ### Added
-- Compatibility with Spanish.
+- Compatibility with Spanish ;
+- Add about page.
 
 ### Changed
 
